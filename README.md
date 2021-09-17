@@ -9,7 +9,7 @@ Python program that turns an image into a pointillist painting.
 
 ## Palette 
 
-Color palette is obtained using K-means clustering. Using this clutering technique resulted in dark colors being frequently chosen. So the colors are boosted by adjusting brightness and saturation levels. Color complements are also obtained to introduce contrast to the resulting image.
+Color palette is obtained using K-means clustering. Using this clustering technique resulted in dark colors being frequently chosen. So the colors are boosted by adjusting brightness and saturation levels. Color complements are also obtained to introduce contrast to the resulting image.
 
 Palette 
 
