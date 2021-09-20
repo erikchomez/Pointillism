@@ -1,8 +1,8 @@
 # Pointillism
 
-Source Image             |  Stylized
+Source Image             |  Stylized | GIF
 :-------------------------:|:-------------------------:|:-------------------------:
- <img src="https://github.com/erikchomez/Pointillism/blob/main/images/tokyo.png" width="350">  |  <img src="https://github.com/erikchomez/Pointillism/blob/main/edits/tokyo.png.jpeg" width="350"> | <img src="https://github.com/erikchomez/Pointillism/blob/main/edits/tokyo_edit.gif" width="350">
+ <img src="https://github.com/erikchomez/Pointillism/blob/main/images/tokyo.png" width="200">  |  <img src="https://github.com/erikchomez/Pointillism/blob/main/edits/tokyo.png.jpeg" width="200"> | <img src="https://github.com/erikchomez/Pointillism/blob/main/edits/tokyo_edit.gif" width="200">
 
 Python program that turns an image into a pointillist painting.
 
